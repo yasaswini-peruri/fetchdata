@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e2c5df99.css","mappings":"AAAA,KAEE,0CACF","sources":["App.css"],"sourcesContent":["body{\n  /* background: linear-gradient(to right,rgb(219, 22, 22),rgb(11, 200, 174)); */\n  background: radial-gradient(green,blue,red);\n}"],"names":[],"sourceRoot":""}
